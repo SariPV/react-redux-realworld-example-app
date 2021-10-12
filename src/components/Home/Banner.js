@@ -8,8 +8,8 @@ const Banner = ({ appName, token }) => {
     <div className="banner">
       <div className="container">
         <h1 className="logo-font">
-        {/*  {appName.toLowerCase()}*/}
-        PARANAN
+          {appName.toLowerCase()}
+        
         </h1>
         <p>Welcome to our website.</p>
       </div>
